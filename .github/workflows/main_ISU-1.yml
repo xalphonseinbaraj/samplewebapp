@@ -59,4 +59,4 @@ jobs:
         with:
           app-name: 'ISU-1'
           slot-name: 'production'
-          publish-profile: ${{ secrets.AzureAppService_PublishProfile_c3a1593de00b494fa74ae586a3da1ab2 }}
+          publish-profile: ${{ secrets.AzureAppService_PublishProfile_d4801f49067b4c9ca56e8a259f1b9b9e }}
