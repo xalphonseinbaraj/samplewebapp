@@ -10,5 +10,4 @@ def index():
 def who():
     return "Congratulations, this is another way to show HIII!!!!!"
 
-if __name__ == "__main__":
-    app.run()
+
